@@ -1,20 +1,20 @@
-// class adit {
+class adit {
     
-//         String name = "mukesh";
-//         private int age = 12;
-//         public int salary = 120000;
-//         public void patna(){
-//             System.out.println("Age is : " + (age*2));
-//         }}
+        String name = "mukesh";
+        private int age = 12;
+        public int salary = 120000;
+        public void patna(){
+            System.out.println("Age is : " + (age*2));
+        }}
     
 
-// public class interf {
-//     public static void main(String[] args) {
-//         adit a = new adit();
-//         System.out.println(a.name);
-//         a.patna();
-//     }
-// }
+public class interf {
+    public static void main(String[] args) {
+        adit a = new adit();
+        System.out.println(a.name);
+        a.patna();
+    }
+}
 
 
 
